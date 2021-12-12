@@ -27,3 +27,17 @@ exclude:
   - README.md
   - jekyll-theme-hamilton.gemspec
 
+# Jekyll SEO Tag (Optional)
+# =========================
+twitter:
+  username: none
+  card: summary
+logo: logo.png
+social:
+  name: Shangzhi Huang
+  links:
+    - https://twitter.com/
+    - https://www.facebook.com/
+    - https://github.com/samilth
+google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+lang: ko
